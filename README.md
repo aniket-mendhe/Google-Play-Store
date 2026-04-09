@@ -57,7 +57,10 @@ The goal is to perform data cleaning, exploratory data analysis (EDA), and visua
 
 ## 📷 Sample Visualizations
 
-(Add your screenshots here later)
+![Chart 1](image1.png)
+![Chart 2](image2.png)
+![Chart 3](image3.png)
+![Chart 4](image4.png)
 
 ---
 
